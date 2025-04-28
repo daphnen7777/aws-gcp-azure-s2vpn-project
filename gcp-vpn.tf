@@ -1,6 +1,6 @@
 # Google provider configuration
 provider "google" {
-    credentials = file("kg-final-project-1b66ab4e796d.json")
+    credentials = file("")
     project     = "kg-final-project"
     region      = "asia-northeast3"
 }
