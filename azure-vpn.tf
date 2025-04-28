@@ -1,6 +1,6 @@
 provider "azurerm" {
   features { }
-  subscription_id = "3bfbdffb-7f3a-4c15-9876-1566068161cb"
+  subscription_id = ""
 }
 
 resource "azurerm_resource_group" "vpn-test" {
